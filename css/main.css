@@ -1,0 +1,113 @@
+body{
+    background-image: url(./BACK\ ground\ .jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contant{
+    background-color:rgba(0,0,0,0.3);
+    margin: 200px auto;
+    width: 500px;
+    border-radius: 40px;
+    padding: 50px;
+}
+input{
+    display: block;
+    background-color:white;
+    width: 450px;
+    height: 40px;
+    margin: 10px auto;
+    border-radius: 40px;
+    font-size: 30px ;
+    margin: 20px , 20px;
+    border: none;
+}
+button{
+    font-size: 25px;
+    border-radius: 40px;
+    width: 500px;
+    height: 50px;
+    margin: 10px auto;
+    color: white;
+}
+p{
+    font-size: 30px;;
+    text-align: center;
+    color:white;
+}
+.BTN{
+    font-size: 16px;
+    background-color: rgba(0,0,0,0.3);
+    color: white;
+    margin: 10px auto;
+    width: 100px;
+    height: 50px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.btn1{
+    display: block;
+    color:black;
+    background-color: skyblue;
+    margin: 10px auto;
+    width: 250px;
+    height: 70px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.btn2{
+    display: block;
+    color: white;
+    background-color: rgb(7, 7, 192);
+    margin: 10px auto;
+    width: 350px;
+    height: 50px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.btn3{
+    display: block;
+    color: white;
+    background-color: rgb(223, 33, 33);
+    margin: 10px auto;
+    width: 350px;
+    height: 50px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.5s ease;
+    
+}
+h1{
+    text-align: center;
+    color:white;
+}
+.PT{
+    width: 150px; 
+    height: 150px;
+     margin: auto;
+     display: block; 
+    border-radius: 20px;
+}
+.btn3:hover{
+    color:rgb(141, 112, 57);
+    background-color: black;
+    transform: scale(1.1 );
+}
+.btn2:hover{
+    color:rgb(141, 112, 57);
+    background-color: black;
+    transform: scale(1.1 );
+}
+.btn1:hover{
+    color:rgb(141, 112, 57);
+    background-color: black;
+    transform: scale(1.1 );
+}
+.BTN:hover{
+    color:rgb(141, 112, 57);
+    background-color: black;
+    transform: scale(1.1 );
+}
+
