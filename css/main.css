@@ -20,6 +20,7 @@ input{
     font-size: 30px ;
     margin: 20px , 20px;
     border: none;
+     padding: 10px;
 }
 button{
     font-size: 25px;
